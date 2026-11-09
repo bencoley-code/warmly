@@ -202,3 +202,5 @@ We prefer responsible disclosure and credit reporters in the release notes.
 ## License
 
 Apache License 2.0. Copyright 2026 Mindroot Ltd. See [LICENSE](./LICENSE).
+#   w a r m l y  
+ 
